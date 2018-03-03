@@ -1,2 +1,2 @@
-# prvni_repozitar
-vyrvořen v úkolu č 9
+﻿# prvni_repozitar
+Tento repozitář jsem založila, protože to byl úkol č 9 z první lekce v předmětu Nástroje a možnosti internetu.
