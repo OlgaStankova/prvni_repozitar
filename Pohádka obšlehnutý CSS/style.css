@@ -1,0 +1,109 @@
+  
+   
+body {
+    color: black;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    }
+
+ .content {
+    display: block;
+    
+    margin: 0 left;
+    max-width: 720px;
+    width: 100%;
+  }
+
+  footer {
+    padding: 10px 0;
+  }
+
+  a {
+    color: #ff3333;
+    /*text-decoration: none;*/
+  }
+   
+  p {
+    color: #333;
+    line-height: 1.7;
+    font-size: 93.3%;
+    margin: 0 0 1.3em;
+    margin: 0.8em 0em 0em 0em;
+    padding: 0;
+    margin-bottom: 0;
+    font-weight: 300;
+  }
+  p.autor  {
+    color: #999;
+    font-style: italic;
+    line-height: 1.4em;
+    font-size: 68.8%;
+    padding: 0;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-transform: uppercase;
+  }
+  p.zdroj {
+    color: #333;
+    line-height: 1.4em;
+    font-size: 100%;
+    padding: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+    margin: 0.8em 0em 0em 0em
+    
+  }
+
+/*  blockquote {
+    margin-left: 20px;
+    padding: 1em;
+    font-style: italic;
+    border-radius: 8px;
+    font-size: 38px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: FireBrick !important;
+  }  
+*/
+.zanr {
+    text-transform: uppercase;
+    font-size: 26px;     
+    line-height: 1.3em;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #999;
+    font-weight: 700;
+    background: url('https://www.megapixel.cz/img/bg/magazin-title.png?v=a6690')
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    display: block;
+    text-align: left;
+    font-size: 160%;
+    line-height: 1.4;
+    font-weight: bold;
+    color: #ff3333;
+    text-transform: uppercase;
+    margin: 0.8em 0em 0em 0em;
+    padding: 0;
+
+  }
+
+h1.titulek {
+    text-transform: uppercase;
+    line-height: 1.2em;
+    text-align: center;
+    font-style: ;
+    color: #333;
+    font-size: 47px;
+    font-weight: 700;
+    margin: 0em 0em 1em 0em;
+    background: url('https://www.megapixel.cz/img/bg/magazin-title.png?v=a6690')
+  }
+  
+ 
