@@ -1,12 +1,11 @@
-  
-   
-body {
+  body {
     color: black;
+    background-color: #DDD; //barvu pozadí šedá
     font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
     font-size: 15px;
     }
 
- .content {
+ div { //.content
     display: block;
     
     margin: 0 left;
@@ -15,12 +14,11 @@ body {
   }
 
   footer {
-    padding: 10px 0;
+   text-align: center; //změna
   }
 
   a {
-    color: #ff3333;
-    /*text-decoration: none;*/
+    color: blue; //všude červená nahrazena za modrou
   }
    
   p {
@@ -54,17 +52,7 @@ body {
     
   }
 
-/*  blockquote {
-    margin-left: 20px;
-    padding: 1em;
-    font-style: italic;
-    border-radius: 8px;
-    font-size: 38px;
-    margin-top: 0;
-    margin-bottom: 0;
-    color: FireBrick !important;
-  }  
-*/
+
 .zanr {
     text-transform: uppercase;
     font-size: 26px;     
@@ -87,7 +75,7 @@ body {
     font-size: 160%;
     line-height: 1.4;
     font-weight: bold;
-    color: #ff3333;
+    color: blue;
     text-transform: uppercase;
     margin: 0.8em 0em 0em 0em;
     padding: 0;
@@ -105,5 +93,3 @@ h1.titulek {
     margin: 0em 0em 1em 0em;
     background: url('https://www.megapixel.cz/img/bg/magazin-title.png?v=a6690')
   }
-  
- 
